@@ -1,5 +1,15 @@
 ## Hi there 👋
 
+### Github's stats
+
+<a href="https://github.com/munmaks">   
+<img align="center" alt="GitHub Stats" src="https://awesome-github-stats.azurewebsites.net/user-stats/munmaks?cardType=github&theme=tokyonight&preferLogin=true" />
+</a>
+
+<a href="https://github.com/munmaks">
+<img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=munmaks&layout=compact&theme=radical" />
+</a>
+
 <!--
 **munmaks/munmaks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
